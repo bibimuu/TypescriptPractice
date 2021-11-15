@@ -1,2 +1,3 @@
-let hello:string = "hello";
-console.log(hello);
+let hasValue: boolean = true;
+let count: number = 2;
+let double: string = `sss`;
